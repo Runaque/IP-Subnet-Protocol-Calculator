@@ -6,6 +6,7 @@ IP Subnet & Protocol Calculator is a portable desktop utility designed for netwo
 
 The application is provided as a standalone executable for Windows (compiled using PyInstaller) but can also be run directly from the Python source code.
 
+
 ✨ Key Features
 
   - Handles calculations for both IPv4 and IPv6 addresses.
@@ -13,9 +14,11 @@ The application is provided as a standalone executable for Windows (compiled usi
   - Provides the Historical Class (A, B, C, D, or E) for IPv4 addresses.
   - Allows users to save all calculation results to a .txt file for documentation or reporting.
 
+
 👀 The looks
 
 <img width="526" height="677" alt="image" src="https://github.com/user-attachments/assets/7898ca72-37c0-4110-9b05-dd7e21ba9dc3" />
+
 
 
 🔒 Hash
